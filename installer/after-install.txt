@@ -1,0 +1,6 @@
+Installation complete.
+
+Please restart OBS Studio, then add a source:
+  Heart Rate (BLE)  /  Датчик пульса (BLE)
+
+Repository: https://github.com/Discrutans/obs-ble-hr
